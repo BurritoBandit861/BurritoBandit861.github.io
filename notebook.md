@@ -9,8 +9,8 @@
 ## Flutter Notes 
 
 ### 🧱 What is Flutter?
-- Definition:
-- Why is it useful?
+- Definition:A framework made by google for building apps that work on web,Android,and iOS -- with one codebase
+- Why is it useful? Uses the Dart programming language
 
 ---
 
@@ -18,19 +18,20 @@
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
-| Widget           |                                                  |                                           |
-| MaterialApp      |                                                  |                                           |
-| Scaffold         |                                                  |                                           |
-| StatelessWidget  |                                                  |                                           |
-| StatefulWidget   |                                                  |                                           |
-| Navigator        |                                                  |                                           |
-| AppBar           |                                                  |                                           |
-| Column           |                                                  |                                           |
-| Row              |                                                  |                                           |
-| Container        |                                                  |                                           |
-| Text             |                                                  |                                           |
-| Image.network    |                                                  |                                           |
-
+| Widget           |Basic building block of a Flutter app, Everything is a widget|                                           |
+| MaterialApp      | The root of the app, Sets up routesand themes.   |                                           |
+| Scaffold         |Proviedes basic visual layout-- like a header, body, floating button |                                           |
+| StatelessWidget  |a widget that doesnt change                       |                                           |
+| StatefulWidget   |a widget that can change over time                |                                           |
+| Navigator        |manages screen transitions                        |                                           |
+| AppBar           |top navigation bar                                |                                           |
+| Column           |Vertical Layout                                   |                                           |
+| Row              |Horizontal Layout                                 |                                           |
+| Container        |wraps content with padding,margin, or color       |                                           |
+| Text             |Displays text                                     |                                           |
+| Image.network    |Displays images from a URL                        |                                           |
+| Padding          |adds space around a widget                        |                                           |
+| Center           |centers its child                                 |                                           |
 ---
 
 ### 🎨 Layout and Design Widgets
