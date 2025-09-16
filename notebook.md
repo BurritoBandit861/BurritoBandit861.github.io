@@ -60,35 +60,23 @@ This ensures your notes are easy for you (and others) to read later.
 - `###` for subsections (like "Notes", "Practice", "Reflections").  
 
 ✅ Example:
-
-
 # My Coding Notebook
 ## Day 1
 ### Notes
 ### Practice
 🔡 Text Formatting
 When to use: Highlight important ideas or add emphasis.
-
 Use bold for key terms or definitions.
-
 Use italic for emphasis or side comments.
-
 Use inline code for keywords, functions, or commands.
-
 ✅ Example:
-
 **Class** = a blueprint for objects  
 *Remember:* always test your code  
 Use `System.out.println()` to print
-
 💻 Code BlocksWhen to use: Anytime you write multiple lines of code.
-
 Inline code for short snippets.
-
 Fenced code blocks with language for full examples.
-
 ✅ Example:
-
 ```java
 public class Hello {
     public static void main(String[] args) {
@@ -96,6 +84,47 @@ public class Hello {
     }
 }
 ```
+
+| Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
+|------|------------|--------------------------|-------------------|-------------|
+| Variable | A named container used to store a value that may change. | `var x = 5;`  |Student age is 15.|InfoCard string description.|
+| Constant | A fixed value that cannot change once set. | `const PI = 3.14;` | Electricity going through power lines. |  |
+| Data type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | A book and processing it. |  |
+| String | A sequence of characters used to represent words or text. | `"Hello World"` | A sentence |  |
+| Intger | Whole number values. | `int age = 16;` | A clock. |  |
+| Double | Number values with decimals. | `double age = 16.2;` |  Changing my font size. |  |
+| Boolean | A value that can be true or false. | `bool isLoggedIn = false;` |A fan; on or off.  |  |
+| List | A collection of values in a specific order. | `List<String> names = [];` |  |  |
+| Null | A special value that means “nothing.” | `String? name = null;` |A empty shopping list.|  |
+| Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | A jump code. |  |
+| Parameter | The information passed into a function to change how it works. | `greet(String name)` |  |  |
+| Return | The result a function gives back. | `return total;` |  |  |
+| Scope | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
+| Class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
+| Object | A specific version of a class. | `Dog myDog = Dog();` |  |  |
+| Property | A variable that belongs to a class/object. | `String name;` |  |  |
+| Method | A function that belongs to a class. | `void bark() {}` |  |  |
+| Constructor | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
+| Abstraction | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
+| Override | Changing how a built-in or inherited function behaves. | `@override` |  |  |
+| Void | A function that does not return a value. | `void printMessage() {}` |  |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🧾 Lists
 When to use: Organize steps, notes, or key points.
 
