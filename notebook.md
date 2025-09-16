@@ -85,6 +85,7 @@ public class Hello {
     }
 }
 ```
+## Flutter Definitions
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
