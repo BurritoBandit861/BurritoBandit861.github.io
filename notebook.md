@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Flutter Notes](#flutter-notes)
   - [What is Flutter](#what-is-flutter)
+  - [Flutter Definitions](#flutter_definitions)
   - [Key Terms and defenitions](#Key-Terms-and-Defefinitions)
 -[Notebook Style Guide](#Markdown-Style-Guide-for-Coding-Notebooks)
 
