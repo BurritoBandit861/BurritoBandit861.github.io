@@ -1,4 +1,4 @@
-# my Coding Notebook
+                 # my Coding Notebook
 
 ## Table of Contents
 - [Flutter Notes](#flutter-notes)
@@ -9,13 +9,13 @@
 
 ## Flutter Notes 
 
-### 🧱 What is Flutter?
+### What is Flutter?
 - Definition:A framework made by google for building apps that work on web,Android,and iOS -- with one codebase
 - Why is it useful? Uses the Dart programming language
 
 ---
 
-### 🧩 Key Terms and Definitions
+## Key Terms and Definitions
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
