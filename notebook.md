@@ -110,7 +110,8 @@ public class Hello {
 | Abstraction | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
 | Override | Changing how a built-in or inherited function behaves. | `@override` |  |  |
 | Void | A function that does not return a value. | `void printMessage() {}` |  |  |
-<img width="1386" height="210" alt="image" src="https://github.com/user-attachments/assets/9bb7be15-004b-4558-8536-6650c1ff4fd5" />
+<img width="1395" height="218" alt="image" src="https://github.com/user-attachments/assets/423a8a5f-58c5-428d-be14-502ea652d897" />
+
 
 
 ## Flutter Definitions
