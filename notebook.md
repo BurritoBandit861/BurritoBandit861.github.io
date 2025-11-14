@@ -113,6 +113,7 @@ public class Hello {
 | Override | Changing how a built-in or inherited function behaves. | `@override` |  |  |
 | Void | A function that does not return a value. | `void printMessage() {}` |  |  |
 <img width="1395" height="218" alt="image" src="https://github.com/user-attachments/assets/423a8a5f-58c5-428d-be14-502ea652d897" />
+<img width="1175" height="70" alt="image" src="https://github.com/user-attachments/assets/f0a77fdd-9a72-49f2-83ea-939f0376454e" />
 
 
 
@@ -152,6 +153,8 @@ public class Hello {
 
 
 
+## string methods
+<img width="1238" height="431" alt="image" src="https://github.com/user-attachments/assets/3738519b-1f64-494e-bb38-146bead0e8a1" />
 
 
 
